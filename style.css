@@ -104,9 +104,11 @@ body {
 }
 
 div{
-  width: center;
-    
-    
+  width: 650px;
+  
+  margin: 0;
+  
+  
 } 
  
   .primary-footer {
