@@ -85,7 +85,12 @@ body {
   
     font-size: 30px;
   }
-  
+
+.primary-header {
+    width: 1100px;
+    
+}
+ 
   .primary-footer {
   
     padding: 2px;
