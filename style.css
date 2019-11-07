@@ -46,13 +46,16 @@ body {
   
   
   .building {
-  
+      
+    text-align: center;
+      
     width: 200px;
   }
   
   
   
   .store-details {
+      
     margin-left: 30px;
   }
   
