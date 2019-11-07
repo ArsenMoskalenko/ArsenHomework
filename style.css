@@ -8,7 +8,9 @@ body {
   }
     
   .primary-header {
+      
     width: 1100px;
+      
     text-align: center; 
   }
   
@@ -83,7 +85,7 @@ body {
   
   .store-link {
       
-    text-alight: center;
+    text-align: center;
       
     color: #EA6E2F;
   
@@ -104,7 +106,7 @@ body {
   
     background-color: #FFC122;
   
-    text-aligt: center;
+    text-align: center;
   }
   
   .created-by {
