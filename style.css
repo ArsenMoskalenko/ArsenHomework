@@ -40,7 +40,7 @@ body {
   
     margin: 50px auto;
   
-    width: 1100px; 
+    width: 200px; 
   }
   
   
@@ -103,14 +103,6 @@ body {
     
 }
 
-div{
-  width: 650px;
-  
-  margin: 0;
-  
-  
-} 
- 
   .primary-footer {
   
     padding: 2px;
