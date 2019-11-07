@@ -82,14 +82,18 @@ body {
   
   
   .store-link {
-  
+      
+    text-alight: center;
+      
     color: #EA6E2F;
   
     font-size: 30px;
   }
 
 .primary-main {
+    
     margin-right: 200px;
+    
     width: 1100px;
     
 }
@@ -100,7 +104,7 @@ body {
   
     background-color: #FFC122;
   
-    text-align: center;
+    text-aligt: center;
   }
   
   .created-by {
