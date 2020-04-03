@@ -1,120 +1,63 @@
 body {
-
-    margin: 0;
-  
-    background-color: #FAF8DA;
-  
-    font-family: 'Open Sans', sans-serif;
-  }
-    
-  .primary-header {
-      
-    width: 100%;
-      
-    text-align: center; 
-  }
-  
-  
-  
-  .main-heading {
-  
-    font-size: 70px;
-  
-    color: #205D76;
-  }
-  
-  
-  
-  .town-preview {
-  
-    width: 650px;
-  }
-
-  .store-section {
-      
-    text-align: center;
-  
-    display: flex;
-  
-    display: -webkit-flex;  
-  
-    margin: 0 auto;
-  
-    width: 150px; 
-  }
-  
-  
-  
-  .building {
-      
-    text-align: center;
-      
-    width: 200px;
-  }
-  
-  
-  
-  .store-details {
-      
-    margin-left: 30px;
-  }
-  
-  
-  
-  .category-heading {
-  
-    color: #205D76;
-  
-    font-size: 30px;
-  }
-  
-  
-  
-  .store-list {
-  
-    padding-left: 15px;
-  
-    color: #FFC122;
-  }
-  
-  
-  
-  .store-name {
-  
-    margin-bottom: 10px;
-  }
-  
-  
-  
-  .store-link {
-      
-    text-align: center;
-      
-    color: #EA6E2F;
-  
-    font-size: 30px;
-  }
-
-.primary-main {
-    
-    margin-right: 200px;
-    
-    width: 100%;
-    
+  margin: 0;
+  background-color: #FAF8DA;
+  font-family: 'Open Sans', sans-serif;
 }
 
-  .primary-footer {
-  
-    padding: 2px;
-  
-    background-color: #FFC122;
-  
-    text-align: center;
-  }
-  
-  .created-by {
-  
-    color: #FFFFFF;
-  
-    font-size: 15px;
-  }
+.primary-header {
+  text-align: center;
+}
+
+.main-heading {
+  font-size: 70px;
+  color: #205D76;
+}
+
+.town-preview {
+  width: 650px;
+}
+
+.store-section {
+  display: flex; 
+  display: -webkit-flex;
+  margin: 50px auto;
+  width: 450px;
+}
+
+.building {
+  width: 200px;
+}
+
+.store-details {
+  margin-left: 30px;
+}
+
+.category-heading {
+  color: #205D76;
+  font-size: 30px;
+}
+
+.store-list {
+  padding-left: 15px;
+  color: #FFC122;
+}
+
+.store-name {
+  margin-bottom: 10px; 
+}
+
+.store-link {
+  color: #EA6E2F;
+  font-size: 20px;
+}
+
+.primary-footer {
+  padding: 2px;
+  background-color: #FFC122;
+  text-align: center;
+}
+
+.created-by {
+  color: #FFFFFF;
+  font-size: 20px;
+}
